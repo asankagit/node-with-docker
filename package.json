@@ -1,0 +1,23 @@
+{
+  "name": "docker-node",
+  "version": "1.0.0",
+  "description": "docker container create test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asankagit/node-with-docker.git"
+  },
+  "author": "Asanka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asankagit/node-with-docker/issues"
+  },
+  "homepage": "https://github.com/asankagit/node-with-docker#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
